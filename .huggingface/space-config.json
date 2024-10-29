@@ -1,0 +1,6 @@
+{
+  "runtime": "python3.12",
+  "sdk": "gradio",
+  "app_file": "gradio_demo.py",
+  "python_packages": ["requirements.txt"]
+}

@@ -1,0 +1,48 @@
+weights/icon_caption_blip2
+weights/icon_caption_florence
+weights/icon_detect/
+.gradio
+__pycache__
+
+.venv
+__pycache__
+
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution/packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Pip logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# macOS
+.DS_Store
+
+.cog
+
+omni
